@@ -1,0 +1,26 @@
+graph {
+  padding: 40px;
+
+}
+
+node {
+    size:10px;
+    text-size: 14px;
+    text-alignment: at-right;
+    text-offset: 5px, 10px;
+}
+
+edge {
+    fill-color: #c0c0c0;
+    size: 2px;
+}
+
+node#a {
+    shape :box;
+}
+
+node.important {
+    size: 15px;
+    fill-color: red ;
+
+}
