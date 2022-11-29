@@ -37,6 +37,7 @@ arretes et on on attribute des valeurs sur ces poids .
 ### Algorithme Dijkstra 
 
 ```java
+
 Procédure Dijkstra(G,s)
 v.dist ← ∞
 v.parent ← null pour v ∈ V
@@ -54,6 +55,7 @@ FinSi
 FinPour
 FinTantQue
 FinProcédure
+
 ```
 
 
