@@ -234,7 +234,5 @@ constant tandis que celui de la version naive augmente d'une façon très rapide
 
 
 # Conclusion
-
-Pour conclure , ce tp m'a permis de traduire l'algorithme vu en cours de Dijkstra en java
-et de voir que cette version n'est pas forcément la plus adapter pour des graphes
-avec des tailles relativement grandes , et dans ces cas vaut mieux utiliser la version fournit par GraphStream.
+Pour conclure, ce TP m'a montré que programmer un algorithme naivement permet de comprendre le fonctionnement
+mais n'est pas forcément le plus adapter pour des cas à grande échelle.
